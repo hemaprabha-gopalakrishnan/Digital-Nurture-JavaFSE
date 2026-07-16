@@ -1,0 +1,23 @@
+body{
+
+    font-family: Arial;
+
+    margin:30px;
+
+}
+
+
+
+th{
+
+    background: green;
+
+    color:white;
+
+}
+
+th,td{
+
+    padding:10px;
+
+}

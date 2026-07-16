@@ -1,0 +1,9 @@
+{
+  "name": "reactjs-hol",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix cricketapp start",
+    "build": "npm --prefix cricketapp run build",
+    "test": "npm --prefix cricketapp run test"
+  }
+}
