@@ -1,0 +1,22 @@
+body{
+  display:flex;
+  justify-content:center;
+    font-family: Arial;
+    margin:30px;
+}
+h2{
+    color:green;
+}
+table{
+    width:400px;
+    border-collapse:collapse;
+}
+th{
+    background-color:#4CAF50;
+    color:white;
+}
+td{
+
+    text-align:center;
+
+}
