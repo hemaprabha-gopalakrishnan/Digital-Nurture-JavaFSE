@@ -1,0 +1,66 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#f5f5f5;
+
+}
+
+.container{
+
+    width:450px;
+    margin:50px auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+
+}
+
+h2{
+
+    text-align:center;
+    color:red;
+
+}
+
+table{
+
+    width:100%;
+
+}
+
+td{
+
+    padding:8px;
+
+}
+
+input{
+
+    width:100%;
+    padding:8px;
+
+}
+
+button{
+
+    background-color:green;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    cursor:pointer;
+
+}
+
+button:hover{
+
+    background-color:darkgreen;
+
+}
+
+.error{
+
+    color:red;
+    font-size:14px;
+
+}
